@@ -1,0 +1,6 @@
+buna 1
+testam astazi ca grep functioneaza
+asa cum ar trebui
+sa functineze grep
+de pe linux
+Grep cu g mare
